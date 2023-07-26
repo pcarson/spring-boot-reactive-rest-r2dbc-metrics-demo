@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23b7322d-881e-4ef3-89be-520acb5de7d2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../../spring-kafka">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../aws-lambda-rest-demo" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OKhuLpMlpie9kWkXCLZknTv2tB" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/paul/development/my-github/spring-boot-reactive-rest-jpa-metrics-demo/pom.xml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.22145331&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b48caa522b5fda9d1a79bea3374f1e51&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../demo-FX" />
+      <recent name="$PROJECT_DIR$/../spring-boot-kafka-demo/test-container-config/grafana" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/../aws-lambda-rest-demo" />
+      <recent name="$PROJECT_DIR$/../aws-lambda-rest-demo/test-container-config/localstack" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../spring-boot-rest-jpa-prometheus-demo" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.demofx" />
+      <recent name="com.example.demo.listener" />
+      <recent name="com.example.demo.controller" />
+      <recent name="com.example.demo.handlers" />
+      <recent name="com.example.demo.repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.service.impl" />
+      <recent name="com.example.demo.service" />
+      <recent name="com.example.demo.handler" />
+      <recent name="com.example.demo.listener" />
+      <recent name="com.example.demo.configuration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserControllerIntegrationTest">
+    <configuration name="UserControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-reactive-rest-r2dbc-metrics-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controller.UserControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerIntegrationTest.createUserWhereUserAlreadyExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-reactive-rest-r2dbc-metrics-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controller.UserControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="createUserWhereUserAlreadyExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerIntegrationTest.deleteUserByIdNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-reactive-rest-r2dbc-metrics-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controller.UserControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="deleteUserByIdNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerIntegrationTest.deleteUserByIdSucceeds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-reactive-rest-r2dbc-metrics-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controller.UserControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="deleteUserByIdSucceeds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-reactive-rest-r2dbc-metrics-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.service.impl.UserServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFX" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../demo-FX/shade/DemoFX.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../demo-FX" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="rest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="rest" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-boot-reactive-rest-r2dbc-metrics-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamoDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <envs>
+        <env name="AWS_DEFAULT_REGION" value="eu-central-1" />
+        <env name="AWS_SECRET_KEY" value="sssshhhh" />
+        <env name="AWS_ACCESS_KEY_ID" value="1" />
+      </envs>
+      <module name="spring-boot-rest-awsdynamodb-metrics-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kafka-demo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-kafka-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamo-demo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-reactive-rest-jpa-metrics-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jpa-demo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-reactive-rest-jpa-metrics-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prometheus" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-kafka-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.DemoFX" />
+      <item itemvalue="JUnit.UserControllerIntegrationTest.deleteUserByIdNotFound" />
+      <item itemvalue="JUnit.UserControllerIntegrationTest.deleteUserByIdSucceeds" />
+      <item itemvalue="JUnit.UserControllerIntegrationTest.createUserWhereUserAlreadyExists" />
+      <item itemvalue="JUnit.UserServiceImplTest" />
+      <item itemvalue="JUnit.UserControllerIntegrationTest" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.Kafka-demo" />
+      <item itemvalue="Spring Boot.dynamo-demo" />
+      <item itemvalue="Spring Boot.DynamoDemo" />
+      <item itemvalue="Spring Boot.jpa-demo" />
+      <item itemvalue="Spring Boot.prometheus" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserControllerIntegrationTest" />
+        <item itemvalue="JUnit.UserControllerIntegrationTest.deleteUserByIdSucceeds" />
+        <item itemvalue="JUnit.UserControllerIntegrationTest.deleteUserByIdNotFound" />
+        <item itemvalue="JUnit.UserServiceImplTest" />
+        <item itemvalue="JUnit.UserControllerIntegrationTest.createUserWhereUserAlreadyExists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b7322d-881e-4ef3-89be-520acb5de7d2" name="Changes" comment="" />
+      <created>1681315402902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681315402902</updated>
+      <workItem from="1681315403882" duration="166000" />
+      <workItem from="1681366699263" duration="25920000" />
+      <workItem from="1681485775581" duration="167000" />
+      <workItem from="1681660909099" duration="5542000" />
+      <workItem from="1681714550115" duration="1923000" />
+      <workItem from="1681716550425" duration="26418000" />
+      <workItem from="1681798017672" duration="8352000" />
+      <workItem from="1681810790098" duration="2191000" />
+      <workItem from="1681887993758" duration="22039000" />
+      <workItem from="1681972790740" duration="24343000" />
+      <workItem from="1682057035445" duration="11727000" />
+      <workItem from="1682070535944" duration="2309000" />
+      <workItem from="1682325210856" duration="1119000" />
+      <workItem from="1682334997759" duration="3411000" />
+      <workItem from="1682401303366" duration="1413000" />
+      <workItem from="1682410797011" duration="901000" />
+      <workItem from="1682417484954" duration="1320000" />
+      <workItem from="1682493128887" duration="5039000" />
+      <workItem from="1682522224736" duration="599000" />
+      <workItem from="1682581364721" duration="3608000" />
+      <workItem from="1682669695386" duration="11609000" />
+      <workItem from="1682763242250" duration="2619000" />
+      <workItem from="1683022089101" duration="1466000" />
+      <workItem from="1683203258075" duration="2759000" />
+      <workItem from="1683272979780" duration="8822000" />
+      <workItem from="1683530427439" duration="13027000" />
+      <workItem from="1683551837792" duration="7826000" />
+      <workItem from="1683616826088" duration="9356000" />
+      <workItem from="1683702853070" duration="4914000" />
+      <workItem from="1684080532398" duration="974000" />
+      <workItem from="1684164234535" duration="1814000" />
+      <workItem from="1684231827462" duration="2061000" />
+      <workItem from="1684329209434" duration="6041000" />
+      <workItem from="1684765556229" duration="1301000" />
+      <workItem from="1684861054625" duration="634000" />
+      <workItem from="1684862245560" duration="13000" />
+      <workItem from="1685003345582" duration="724000" />
+      <workItem from="1685089299252" duration="121000" />
+      <workItem from="1686817332321" duration="2154000" />
+      <workItem from="1687775824948" duration="1727000" />
+      <workItem from="1687852443644" duration="1678000" />
+      <workItem from="1687930905852" duration="1217000" />
+      <workItem from="1688572444460" duration="38000" />
+      <workItem from="1688738672572" duration="729000" />
+      <workItem from="1689667226323" duration="1023000" />
+      <workItem from="1689768038329" duration="318000" />
+      <workItem from="1689768371357" duration="54000" />
+      <workItem from="1689768487406" duration="8781000" />
+      <workItem from="1690181899420" duration="13502000" />
+      <workItem from="1690273138560" duration="12518000" />
+      <workItem from="1690354697733" duration="3426000" />
+    </task>
+    <task id="LOCAL-00001" summary="improve tests; update grafana dashboard">
+      <created>1681805415498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681805415498</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tests; doco; tidy up">
+      <created>1682090671450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682090671450</updated>
+    </task>
+    <task id="LOCAL-00003" summary="doco and code tidy up">
+      <created>1682421776917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682421776917</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dependency and doco tidy">
+      <created>1682421833048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682421833048</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dependency and test tidy">
+      <created>1682494187645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682494187645</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upgrade lombok version for java 17 compatibility">
+      <created>1682494741476</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682494741476</updated>
+    </task>
+    <task id="LOCAL-00007" summary="upgrade lombok version for java 17 compatibility">
+      <created>1682497946222</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682497946222</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upgrade maven wrapper info">
+      <created>1682504573657</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682504573657</updated>
+    </task>
+    <task id="LOCAL-00009" summary="disable influx connection for tests">
+      <created>1682504612709</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682504612709</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update documentation">
+      <created>1682582829296</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682582829296</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update documentation">
+      <created>1682592486546</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682592486546</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update documentation">
+      <created>1682593007758</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682593007758</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test tidy">
+      <created>1682765829018</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682765829018</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test tidy">
+      <created>1682766542667</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682766542667</updated>
+    </task>
+    <task id="LOCAL-00015" summary="WIP">
+      <created>1683280510662</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683280510663</updated>
+    </task>
+    <task id="LOCAL-00016" summary="CompletableFuture for logging">
+      <created>1684168842399</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684168842400</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add licence info">
+      <created>1684233879128</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684233879128</updated>
+    </task>
+    <task id="LOCAL-00018" summary="code tidy">
+      <created>1684332649242</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684332649242</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="d1bdcb2e-5e50-4612-9738-faccbe7d3dd2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="d1bdcb2e-5e50-4612-9738-faccbe7d3dd2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../spring-boot-rest-jpa-prometheus-demo" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="improve tests; update grafana dashboard" />
+    <MESSAGE value="tests; doco; tidy up" />
+    <MESSAGE value="doco and code tidy up" />
+    <MESSAGE value="dependency and doco tidy" />
+    <MESSAGE value="dependency and test tidy" />
+    <MESSAGE value="upgrade lombok version for java 17 compatibility" />
+    <MESSAGE value="upgrade maven wrapper info" />
+    <MESSAGE value="disable influx connection for tests" />
+    <MESSAGE value="Update documentation" />
+    <MESSAGE value="test tidy" />
+    <MESSAGE value="WIP" />
+    <MESSAGE value="CompletableFuture for logging" />
+    <MESSAGE value="Add licence info" />
+    <MESSAGE value="code tidy" />
+    <option name="LAST_COMMIT_MESSAGE" value="code tidy" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/oauth/service/impl/UserServiceImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/controller/UserControllerIntegrationTest.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../spring-boot-rest-awsdynamodb-metrics-demo/src/test/java/com/example/demo/repository/UserRepositoryIntegrationTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../spring-boot-rest-awsdynamodb-metrics-demo/src/main/java/com/example/demo/controller/UserController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../spring-boot-rest-awsdynamodb-metrics-demo/src/main/java/com/example/demo/repository/UserRepository.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../spring-boot-rest-awsdynamodb-metrics-demo/src/main/java/com/example/demo/service/impl/UserServiceImpl.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../aws-lambda-rest-demo/src/main/java/com/example/demo/repository/UserRepository.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../spring-boot-rest-awsdynamodb-metrics-demo/src/test/java/com/example/demo/repository/UserRepositoryTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../aws-lambda-rest-demo/src/test/java/com/example/demo/handlers/DeleteUserHandlerTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../aws-lambda-rest-demo/src/main/java/com/example/demo/handlers/DeleteUserHandler.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../demo-FX/src/main/java/com/example/demofx/utils/PoiUtils.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../demo-FX/src/main/java/com/example/demofx/Controller.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/impl/UserServiceImplTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/UserServiceImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/impl/UserServiceImpl.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
